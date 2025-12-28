@@ -2,4 +2,4 @@
 
 This is my first repository.
 <br>
-Author - Ajeejul Rehman
+Author - Ajeejul Rehman.
